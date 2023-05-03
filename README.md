@@ -19,4 +19,4 @@
     </td>
   </tr>
 </p>
-(Click <a href="https://scholar.google.com/citations?user=7tsIRXYAAAAJ&hl=en">here</a> for Google Scholar)
+<p align="center">(Click <a href="https://scholar.google.com/citations?user=7tsIRXYAAAAJ&hl=en">here</a> for Google Scholar)</p>
