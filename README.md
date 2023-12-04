@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
-<h3 align="center">A passionate open-source developer from Texas, USA</h3>
+<h3 align="center">An open-source developer from Texas, USA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jesseguerrero&label=Profile%20views&color=0e75b6&style=flat" alt="jesseguerrero" /> </p>
 
